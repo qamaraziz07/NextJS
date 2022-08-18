@@ -1,0 +1,1 @@
+Next JS boiler plate with tailwind and typescript setup.
